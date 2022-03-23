@@ -12,8 +12,8 @@ global.ownernumber = "6281276188297"
 global.botname = "GTHUB-Bot"
 global.thumbnail = fs.readFileSync("./settings/Haruka.jpg") //sesuaikan dengan nama foto
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
-global.lolkey = 'e966d3aac613b61dabd35cc6' //register lolhuman.xyz klo mau apikey
-global.zenzkey = '8423e19c13' //register zenzapi.xyz klo mau apikey
+global.lolkey = '4390771bcbefd43db7d99c13' //register lolhuman.xyz klo mau apikey
+global.zenzkey = '474f90794dc2' //register zenzapi.xyz klo mau apikey
 global.limit = {
 		free:20,
 		premium:1000
